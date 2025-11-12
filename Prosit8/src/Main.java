@@ -21,8 +21,8 @@ public class Main {
         societe.displayEmploye();
 
         // Recherche par nom
-        System.out.println("\nRecherche nom 'Ali' : " + societe.rechercherEmploye("Ali"));
-        System.out.println("Recherche nom 'Sami' : " + societe.rechercherEmploye("Sami"));
+        System.out.println("\nRecherche nom 'Barry' : " + societe.rechercherEmploye("Allen"));
+        System.out.println("Recherche nom 'Fatma' : " + societe.rechercherEmploye("Klibi"));
 
         // Recherche par département
         System.out.println("\n--- Employés du département Informatique ---");
